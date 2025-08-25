@@ -18,11 +18,9 @@ I thrive in agile environments where I can combine my technical expertise and pr
 ### 🎮 Play a Game!
 
 <!-- Snake Game -->
-![Snake Game](https://github.com/matrix9339/matrix9339/blob/output/github-contribution-grid-snake.svg)
 
----
+![Snake Game](https://raw.githubusercontent.com/matrix9339/matrix9339/output/github-contribution-grid-snake.svg)
 
-### 🛠️ Technical Skills
 ### 🛠️ Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
