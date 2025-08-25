@@ -15,12 +15,6 @@ I thrive in agile environments where I can combine my technical expertise and pr
 
 ---
 
-### 🎮 Play a Game!
-
-<!-- Snake Game -->
-
-![Snake Game](https://raw.githubusercontent.com/matrix9339/matrix9339/output/github-contribution-grid-snake.svg)
-
 ### 🛠️ Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -106,7 +100,6 @@ I thrive in agile environments where I can combine my technical expertise and pr
 
 ### 📊 GitHub Stats & Activity
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrix9339&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrix9339&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=matrix9339&theme=radical)
 
