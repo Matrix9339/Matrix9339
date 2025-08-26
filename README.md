@@ -65,13 +65,7 @@ I thrive in agile environments where I can combine my technical expertise and pr
 
 ---
 
-### 🔬 Research & Development - AI/ML
-<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
 
-- **EIRIS Scan for Disease Prediction:** Developing ML models (GNN, Random Forest) to enhance diagnostic accuracy from scan data.
-- **Intelligent SLA Monitoring:** Designed an ML-based risk assessment system for cloud environments, **reducing SLA violations by 30%**.
-
----
 
 ### 📂 Highlighted Projects
 
@@ -80,6 +74,13 @@ I thrive in agile environments where I can combine my technical expertise and pr
 | **Predictive Model for Iris Plant Categorization** | End-to-end ML pipeline for classifying iris species with **93.3% accuracy**. | Scikit-learn, Pandas, Matplotlib |
 | **Personal Productivity Dashboard** | Full-stack Todo list application with full CRUD functionality. | Flask, SQLAlchemy, Bootstrap, Jinja2 |
 | **Car Catalog Systems** | Responsive React frontend with Spring Boot backend; improved UX by **41%**. | React, Spring Boot, MySQL, REST API |
+
+---
+### 🔬 Research & Development - AI/ML
+<img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200">
+
+- **EIRIS Scan for Disease Prediction:** Developing ML models (GNN, Random Forest) to enhance diagnostic accuracy from scan data.
+- **Intelligent SLA Monitoring:** Designed an ML-based risk assessment system for cloud environments, **reducing SLA violations by 30%**.
 
 ---
 
